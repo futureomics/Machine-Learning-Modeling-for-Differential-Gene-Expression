@@ -1,4 +1,4 @@
-# Machine-Learning-modeling-for-Differential-Gene-Expression
+# Machine-Learning-Modeling-for-Differential-Gene-Expression
 
 Machine Learning (ML) modeling for differential gene expression analysis results (logFC, p-values, etc.)
 
@@ -38,3 +38,5 @@ PCA Visualization using the best-performing model
 Classification of upregulated vs. downregulated genes
 
 Feature selection by shrinking some coefficients to zero → helps identify important features
+
+Follow like, share, and subscribe https://www.youtube.com/@Bioinformatics_Made_Easy
