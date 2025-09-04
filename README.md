@@ -32,6 +32,9 @@ Best Model Selection automatically based on accuracy
 
 PCA Visualization using the best-performing model
 
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/3fbd8fd3-c524-4909-945b-d1ae75daf901" />
+
+
 
 **LASSO model LASSO is essentially Logistic Regression with L1 regularization for classification tasks. It does two things:
 **
