@@ -34,6 +34,7 @@ PCA Visualization using the best-performing model
 
 <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/3fbd8fd3-c524-4909-945b-d1ae75daf901" />
 
+<img width="689" height="490" alt="image" src="https://github.com/user-attachments/assets/e33c408e-8fee-4f88-b4e5-709e9979b2e7" />
 
 
 **LASSO model LASSO is essentially Logistic Regression with L1 regularization for classification tasks. It does two things:
@@ -41,5 +42,12 @@ PCA Visualization using the best-performing model
 Classification of upregulated vs. downregulated genes
 
 Feature selection by shrinking some coefficients to zero → helps identify important features
+
+<img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/c507dad8-b807-4a9a-9bc0-978cd29de860" />
+
+
+<img width="689" height="490" alt="image" src="https://github.com/user-attachments/assets/2d10db84-e64b-49e6-b3c0-15f179ffca7b" />
+
+
 
 Follow like, share, and subscribe https://www.youtube.com/@Bioinformatics_Made_Easy
